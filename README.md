@@ -36,6 +36,7 @@ tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
      <img width="436" height="324" alt="image" src="https://github.com/user-attachments/assets/21096b15-da84-476a-959a-95e0bf80c94c" />
 
      <img width="557" height="64" alt="image" src="https://github.com/user-attachments/assets/a4a94ef0-0556-4b45-bdcd-fcca54f58a46" />
+     
    - Java
 
    
@@ -45,6 +46,15 @@ tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
    <img width="327" height="328" alt="Screenshot 2026-09-20 131512" src="https://github.com/user-attachments/assets/ce10c202-f3ef-44f0-b60b-b8f7ef7ec722" />
    <img width="430" height="188" alt="Screenshot 2026-09-20 131527" src="https://github.com/user-attachments/assets/00f90a77-b9a8-4a62-9099-ede8a4e20701" />
    <img width="593" height="341" alt="Screenshot 2026-09-20 131738" src="https://github.com/user-attachments/assets/c169e1fd-57cf-4758-bc7c-ee66265e6de1" />
+
+   - CPP
+
+     <img width="242" height="65" alt="Screenshot 2026-09-20 133314" src="https://github.com/user-attachments/assets/e44572bf-4cca-4984-8b35-c9fc567e4a2e" />
+     <img width="600" height="317" alt="Screenshot 2026-09-20 133446" src="https://github.com/user-attachments/assets/39f28759-34a4-4500-92c6-56d57db1111e" />
+     <img width="568" height="383" alt="Screenshot 2026-09-20 133536" src="https://github.com/user-attachments/assets/8c3862d2-01a0-43de-9cb1-a0b4ffd46d16" />
+     <img width="614" height="379" alt="Screenshot 2026-09-20 133110" src="https://github.com/user-attachments/assets/3fd39f18-d0f9-4a7d-b5f6-e412da6c221e" />
+     <img width="308" height="223" alt="Screenshot 2026-09-20 133149" src="https://github.com/user-attachments/assets/c80f111f-bb9f-4f87-9bc4-b7df27d9c93a" />
+
 
 
 
