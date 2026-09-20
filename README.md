@@ -24,20 +24,16 @@ tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
    - Py
   
      <img width="330" height="164" alt="image" src="https://github.com/user-attachments/assets/50bb5d92-d8b9-4534-a0e8-3f4cc8cd0b29" />
-
      <img width="274" height="167" alt="image" src="https://github.com/user-attachments/assets/fc14bafa-a3e0-438d-8d66-26afb6174e4e" />
-
      <img width="268" height="182" alt="image" src="https://github.com/user-attachments/assets/a8859893-afad-4c9d-b17c-4623a884ed35" />
-
      <img width="246" height="82" alt="image" src="https://github.com/user-attachments/assets/6d3d1739-02ca-48d3-aa6f-607a82edef56" />
-
      <img width="235" height="119" alt="image" src="https://github.com/user-attachments/assets/31fe8f16-cacb-467c-9c7a-79f2d3e1df6c" />
-
      <img width="436" height="324" alt="image" src="https://github.com/user-attachments/assets/21096b15-da84-476a-959a-95e0bf80c94c" />
-
      <img width="557" height="64" alt="image" src="https://github.com/user-attachments/assets/a4a94ef0-0556-4b45-bdcd-fcca54f58a46" />
      
    - Java
+  
+     
      <img width="278" height="179" alt="Screenshot 2026-09-20 131750" src="https://github.com/user-attachments/assets/550bd1a9-614b-4110-acd2-9c0eb6b8a9c9" />
      <img width="256" height="130" alt="Screenshot 2026-09-20 131851" src="https://github.com/user-attachments/assets/6de5be72-41a8-4e80-9511-16fc83e3fe5f" />
      <img width="325" height="146" alt="Screenshot 2026-09-20 131449" src="https://github.com/user-attachments/assets/c4208ed4-b814-4923-9ab9-804c7e92d9a8" />
